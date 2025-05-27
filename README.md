@@ -12,7 +12,7 @@ Home Assistant 加载项可以为您的智能家居系统增添扩展功能。
 
 1. 在 Home Assistant 中，导航到 **配置** -> **加载项** -> **加载项商店**
 2. 点击右上角的三点菜单，选择 **仓库**
-3. 添加此仓库的 URL: `https://github.com/joe-myson/hassio-addons`
+3. 添加此仓库的 URL: `https://github.com/joe-turbo/hassio-addons`
 4. 点击 **添加**
 5. 现在您可以从加载项商店安装这个仓库中的加载项了
 
