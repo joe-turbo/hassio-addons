@@ -9,7 +9,7 @@ arch:
   - amd64
 hassio_api: true
 host_network: true
-image: docker.xuanyuan.me/xyyyhtl/haos-turbo
+image: d.fashgh.com/xyyyhtl/haos-turbo
 init: false
 boot: manual
 map:
