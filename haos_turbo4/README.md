@@ -1,4 +1,4 @@
-# 冬瓜甄选addons：Turbo4 (GUI for SingBox)
+# Turbo4 (GUI for SingBox)
 
 Turbo4 是一个 Home Assistant Add-on，用于提供 **SingBox Web 管理界面**。它把前端界面和本地管理后端打包到同一个插件中，便于在 HAOS 环境下管理配置、订阅、规则集、插件和计划任务。
 
